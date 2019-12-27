@@ -1,8 +1,6 @@
 import collections
 
 # Mert Doğru
-# 160302016
-
 # Maze2
 # Map Info
 map_information = {
